@@ -1,6 +1,8 @@
 # Recipes
 
-Page with links to a few recipes
+Page with links to a few recipes.
+
+**Demo:** [View Odin Recipes](https://kno20205.github.io/odin-coding-quest/odin-recipes/index.html)
 
 ## Assignment
 
