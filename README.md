@@ -29,4 +29,3 @@ Linie 1
 Line 2 from main
 Line 3 from feature
 Line 4 from main
-Line 3 from feature
