@@ -24,8 +24,3 @@ While this repository is primarily a personal development tool, suggestions, and
 ## License
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Linie 1
-Line 2 from main
-Line 3 from feature
-Line 4 from main
